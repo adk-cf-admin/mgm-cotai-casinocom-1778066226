@@ -1,0 +1,208 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#FFFBF0",
+            "lang-select-color": "#222829",
+            "bg-light": "#ECE7D7",
+            "welcome-bonus-bg": "#FFFBF0",
+            "top-games-hover-fg": "#222829",
+            "main-bg": "#f6f3ea",
+            "text": "#222829",
+            "text-black": "#222829",
+            "table-head": "#807149",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#807149",
+            "yellow-button": "#bd8a00",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#807149",
+            "casino-cards": "#FFFBF0",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#807149",
+            "providers-back": "#ECE7D7",
+            "faq-label": "#FFFBF0",
+            "bg-footer": "#807149",
+            "copyright": "#e7e7d5",
+            "starColor": "#807149",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7303"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7305",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "MGM COTAI"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7306",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "MGM COTAI"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "MGM COTAI",
+                    "title": "MGM COTAI — Casino, Hotel, Restaurants und Shows",
+                    "description": "MGM COTAI verbindet Casino-Spiele, Slots, M life Vorteile, Bar Patuá, ausge­zeichnete Restaurants, eindrucksvolle Shows, Hotelkomfort und luxuriöse Erholung.",
+                    "canonical": "mgm-cotai-casino.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7308",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "mgm-cotai-casino.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7307"
+                },
+                "hero": {
+                    "title": "MGM COTAI — Premium-Casino, Hotel, Shows und Restaurants",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7309",
+                    "imageSizeModifier": 20,
+                    "imageYModifier": -8,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7310",
+                    "mobileImageSizeModifier": 10,
+                    "mobileImageYModifier": 0,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "At MGM COTAI, we combine casino action, refined comfort and a complete resort journey.",
+                    "items": [
+                        "Baccarat with a polished gaming mood.",
+                        "Table games for varied stra­tegies.",
+                        "Slots with dynamic prize potential.",
+                        "Personal bonuses through M life.",
+                        "Member vouchers and selected discounts.",
+                        "Premium rooms with private service.",
+                        "Hotel, shows and dining nearby."
+                    ],
+                    "advantagesAfterText": "Our casino is built for guests who want exciting games, attentive service, stylish bars, strong dining and enter­tainment in one place. We make every visit feel rewarding, elegant and easy to enjoy.",
+                    "knowMore": "Know more",
+                    "appTitle": " MGM Cotei App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7311",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": " MGM Cotei App",
+                    "mobileGooglePlayImageTitle": " MGM Cotei App",
+                    "mobileIosImageTitle": " MGM Cotei App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About  MGM Cotei",
+                        "description1": "At MGM COTAI, we add clear value to the gaming evening through vouchers, dining rewards and selected offers. Our casino stands out by placing games, shows, bars, hotel stays, premium rooms and M life privileges within one seamless expe­rience.",
+                        "items": [
+                            "MOP 100 bonus.",
+                            "MOP 400 voucher.",
+                            "Up to 20%."
+                        ],
+                        "description2": "MGM COTAI is our casino for guests who enjoy polished gaming, premium service and a contem­porary resort atmosphere. We created a space where casino energy connects naturally with art, dining, hotel comfort and enter­tainment. Our gaming areas feel vibrant while keeping the service personal and attentive. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/7312",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Every detail supports an easy move between tables, machines, restaurants and lounges. Table games bring a classic casino rhythm for guests who enjoy focus and strategy. Slot machines add motion, visuals and fast-paced excitement. M life helps guests unlock more value across visits, dining, selected shows and special offers. Around the casino, guests can continue the evening with bars, hotel stays, spa time and immersive attractions. We focus on confident luxury, warm hospi­tality and a complete resort journey. MGM COTAI is where gaming becomes part of a larger memorable expe­rience."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": " MGM Cotei : Opening Hours, Payment Methods and Loyalty Program",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\"> MGM COTAI — style, gaming and resort enter&shy;tainment <\/h3> <p> MGM COTAI is our casino for guests who want a refined gaming floor, a strong design identity and a complete resort expe&shy;rience in one place. The heart of the atmosphere is The Spectacle, our immersive atrium shaped by digital art, light, greenery and a vibrant social rhythm. We operate around the clock, while selected restaurants, bars, spa areas and shows follow their own schedules. Our gaming areas include classic table games, electronic formats and premium rooms for guests who value privacy, comfort and attentive service. Bar Patuá brings an elegant evening mood with crafted cocktails, warm lighting and a distinctive character. For dining, guests can move between Aji, Grill 58, Coast, Chún, Five Foot Road, Hao Guo, Miàn Duì Miàn, Anytime and other resort venues. Our hotel collection includes M Tower, Emerald Tower, Skylofts, Emerald Villa and The Mansion. MGM Theater adds large-scale productions, while our art expe&shy;riences bring another layer of discovery. M life members can enjoy coupons, points, selected discounts, dining rewards and tailored privileges. We combine casino play, hotel comfort, dining, shows, spa and shopping into a confident premium journey. <\/p> <br> <table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #222829;font-size:14px\"> <thead> <tr style=\"background-color: #807149;\"> <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Zone<\/th> <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Days<\/th> <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Hours<\/th> <\/tr> <\/thead> <tbody> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Main gaming floor<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Daily<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">24 hours<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Table games<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Daily<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">24 hours<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Electronic games<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Daily<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">24 hours<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Premium salons<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Daily<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">24 hours or by invitation<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Cashier and guest service<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Daily<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">24 hours<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bar Patuá lounge<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Daily<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">6:00 PM–1:00 AM<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Theater events<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">By schedule<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">Event-based hours<\/td> <\/tr> <\/tbody> <\/table> <br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\"> MGM COTAI — service, payments and win collection <\/h3> <p> At MGM COTAI, our team is central to the way we welcome guests and shape the casino expe&shy;rience. Our staff help visitors move confidently between gaming areas, cashiers, hotel desks, restaurants, bars and M life services. English, Chinese and other languages may be available depending on the team on duty, and we aim to make communication clear for inter&shy;national guests. On the gaming floor, our service style is calm, professional and attentive, so guests can focus on play while practical questions are handled smoothly. At cashier and guest service points, we keep procedures clear for identification, chip exchange and payout support. <\/p> <br> <p> Casino play is generally handled through cash, chips and cashier transactions, while restaurants, retail, hotel services and spa areas can accept bank cards and other payment methods according to each venue’s policy. We work with commonly used guest currencies such as HKD and MOP, with final exchange and payout handling managed at the cashier. Before playing, guests can speak with our team about available options for exchange, chip purchase or account-related assistance. ATMs and currency exchange services make it easy to prepare for gaming, dining or shopping. Across the resort, we keep payment flows practical, convenient and consistent. <\/p> <br> <p> When a guest collects a win, our cashier team verifies chips, gaming tickets or other valid payout records before completing the transaction. Identification may be required, and our staff guide the process with care and discretion. Depending on the amount, game format and internal procedures, additional verification or documentation may apply. We value transparent handling, so cashier transactions are completed according to established security standards. For larger payouts, guests can speak with staff in advance to choose a convenient collection method and understand any applicable limits. <\/p> <br> <p> Tax treatment depends on a guest’s personal status, tax residency and reporting rules in the place where they file obligations. In most standard cashier transactions, our casino does not replace personal tax advice or determine a guest’s individual responsibilities beyond the visit. We recommend keeping payout records for major wins, especially when personal reporting may be required later. Guests planning a substantial gaming budget may wish to discuss potential reporting needs with their own adviser. Our role is to provide accurate payout processing, clear support and a comfortable service expe&shy;rience. <\/p> <br>\n<h3 style = \"font-weight: bold;font-size: 32px;\"> MGM COTAI — visit rules and smooth arrival <\/h3> <p> At MGM COTAI, we create a premium gaming environment where guests can enjoy casino play, dining and resort services with confidence. Entry to gaming areas requires meeting the age requirement and presenting identification when requested by our staff. We recommend smart casual attire because it suits the atmosphere of our casino, restaurants and evening lounges. Neat shoes, polished clothing and a refined look work well for moving from the gaming floor to dinner or a show. In gaming areas, guests should follow table rules, respect staff and other players, and listen to dealer or manager instructions. Photo and video recording may be restricted in casino spaces to protect privacy and security. We ask guests not to bring restricted items into gaming areas, interrupt play or enter staff-only spaces without permission. Alcohol service is handled within approved venues and resort rules, supporting a balanced and enjoyable evening. MGM COTAI is easy to reach by shuttle, taxi, private car or hotel transport services. Self-parking, valet service and selected M life parking privileges are available for added convenience. We make the journey simple from arrival and parking to gaming, dining, entertainment and relaxation. <\/p> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Dress code <\/h4> <ul> <li>• Smart casual is the most suitable choice for our gaming floor, restaurants and evening lounges.<\/li> <li>• Closed shoes, neat trousers, shirts, dresses, jackets and polished resort wear are recommended.<\/li> <li>• Premium salons and special events are best enjoyed in a more elegant style.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Entry conditions <\/h4> <ul> <li>• Gaming areas are available to guests who meet the age requirement and can verify their identity.<\/li> <li>• Identification may be requested at entry, during cashier transactions or for larger payout handling.<\/li> <li>• M life members can present a card or digital profile to access eligible privileges.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Casino conduct <\/h4> <ul> <li>• Guests should not interrupt play, dispute procedures at the table or use unauthorized devices.<\/li> <li>• Photography and filming in gaming spaces require staff approval.<\/li> <li>• Staff-only areas, guest privacy and safety instructions must be respected at all times.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Parking and transport <\/h4> <ul> <li>• Guests arriving by car can use self-parking or valet service.<\/li> <li>• The first 4 hours of self-parking are complimentary, followed by an hourly charge.<\/li> <li>• M life Platinum and above members can enjoy extended parking privileges.<\/li> <li>• Complimentary MGM shuttles connect the resort with key transport points on a scheduled basis.<\/li> <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\"> MGM COTAI — M life rewards and personal privileges <\/h3> <p> M life is our program for guests who want more value from every MGM COTAI visit. It connects dining offers, special coupons, points, selected shows, shopping, spa experiences and tailored surprises. Registration is simple, with a phone number giving guests access to starter privileges and digital offers. We recommend linking the account with the MGM WeChat Mini Program because it makes coupons, rewards and updates easier to manage. Members can enjoy welcome dining rewards, including a MOP 100 voucher, a MOP 400 voucher and a seasonal drink voucher. At selected restaurants, members can also receive MOP 100 rebate for every MOP 500 spend under the promotion terms. For the “2049” residency show, M life members can enjoy up to 20% off or redeem tickets with points. Higher statuses bring more personalized attention, convenience and priority-style benefits, with Platinum and Noir connected to extended parking privileges. We build M life around memorable moments, not only point earning. The more guests enjoy gaming, dining, stays and entertainment, the richer their personal journey can become. Privileges may refresh by season, giving members new reasons to return. <\/p> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Registration conditions <\/h4> <ul> <li>• A phone number is the basic requirement for quick M life registration.<\/li> <li>• A digital profile helps guests receive coupons, points and personalized updates.<\/li> <li>• Binding the account with MGM WeChat Mini Program unlocks additional offers.<\/li> <li>• Identification may be required for verification and selected services.<\/li> <li>• Membership can be used across dining, hotel, spa, shows, retail and gaming-related services.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Levels and status path <\/h4> <ul> <li>• Base member — available after registration, with access to coupons and current offers.<\/li> <li>• Active member — receives more tailored offers through regular visits and spending.<\/li> <li>• Enhanced status — shaped by guest activity, visit history and available club criteria.<\/li> <li>• Platinum — a premium level with extended privileges, including eligible 24-hour parking benefits.<\/li> <li>• Noir — our most exclusive service format, with personalized invitations and elevated recognition.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Available benefits <\/h4> <ul> <li>• MOP 100 dining voucher — a welcome dining benefit for new members.<\/li> <li>• MOP 400 dining voucher — an additional starter reward for a richer dining journey.<\/li> <li>• Seasonal drink voucher — a light and timely welcome treat.<\/li> <li>• MOP 100 rebate for every MOP 500 spend — extra value at selected restaurants under promotion terms.<\/li> <li>• Up to 20% off “2049” tickets — a member privilege for selected ticket categories.<\/li> <li>• Ticket redemption with points — a practical way to turn points into entertainment.<\/li> <li>• 24-hour parking for Platinum and above — a convenient benefit for guests arriving by car.<\/li> <li>• Personal surprises — tailored offers shaped by profile, season and activity.<\/li> <\/ul><br>\n\n\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": " Entertainment and Gaming at  MGM Cotei ",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\"> MGM COTAI — bonuses, wins and seasonal offers <\/h3> <p> At MGM COTAI, value goes beyond membership tiers through gaming excitement, resort campaigns, dining events and seasonal offers. In our gaming areas, winnings depend on the selected game, stake size, paytable and the current table or terminal limit. Baccarat, blackjack, roulette, sic bo and slots all offer clear rules, visible odds and defined play conditions. Table-game payouts follow the rules of each bet, while slot prizes are displayed through paytables, paylines, bonus rounds and jackpot screens. When progressive prizes are available, the active amount is shown directly on the machine or in the gaming area. Beyond play, we regularly create special dining, shopping and entertainment offers that make the visit feel complete between gaming sessions. Seasonal campaigns may include vouchers, rebates, themed dinners, limited menus and lucky draw moments. Dining events bring transparent prices, polished service and a strong reason to visit. Shows, art projects and exhibitions add depth to the casino journey. We connect play, dinner, shopping, cocktails and entertainment into one memorable resort scenario. <\/p> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Gaming wins and examples <\/h4> <ul> <li>• Baccarat — a HKD 500 bet on a 1:1 outcome can return HKD 500 net win before any game-specific rule applies.<\/li> <li>• Blackjack — payouts depend on the hand, table rules and selected limit, giving strong hands clear upside.<\/li> <li>• Roulette — a straight number is one of the most recognizable high-ratio classic bets.<\/li> <li>• Sic bo — bet types let guests choose between frequent smaller returns and rarer higher multipliers.<\/li> <li>• Slots — maximum payout depends on paytable, denomination, line setup, bonus round and active jackpot screen.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Entertainment offers <\/h4> <ul> <li>• “2049” tickets — MOP 288, MOP 488, MOP 688 and MOP 888 categories offer flexible viewing choices.<\/li> <li>• Up to 20% member privilege — selected show tickets may become even more attractive when the offer applies.<\/li> <li>• MGM Theater evening — lasers, music, kinetic elements and cultural storytelling create a signature show mood.<\/li> <li>• The Spectacle — digital art, light scenes and a social atrium make breaks between games memorable.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Seasonal and dining offers <\/h4> <ul> <li>• Shopping rebate up to MOP 25,000 — voucher value for qualifying high-end retail spending.<\/li> <li>• Grill 58 wine dinner at MOP 900 — a limited-seat culinary evening with wine pairing.<\/li> <li>• Seasonal items from MOP 68 — desserts, drinks and limited creations for festive moments.<\/li> <li>• Coast set dinner at MOP 888 for 4 guests — a relaxed group dining format.<\/li> <li>• Dragon Boat Delight from MOP 98 to MOP 320 — limited festive sets and dessert options.<\/li> <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\"> MGM COTAI — popular casino games <\/h3> <p> At MGM COTAI, our gaming experience is designed for both classic casino players and guests who enjoy faster electronic formats. The core of our casino floor is built around table games with clear rules, a polished atmosphere and professional dealers. Baccarat remains one of our most popular games because of its simple flow, quick rounds and exciting result reveal. Blackjack appeals to guests who enjoy decision-making, rhythm and strategy. Roulette brings the iconic casino feeling of the wheel, number, sector and instant anticipation. Sic bo adds dice-based excitement with a wide range of bet types and risk levels. Electronic games are ideal for guests who prefer independent pacing, visual effects and fast transitions between rounds. Slot machines offer varied themes, denominations, bonus features and prize paths. In premium areas, we focus on privacy, comfort and attentive service. Beginners can start with simple bets, while experienced guests can choose limits, pace and room format that match their style. We make every game part of a complete MGM COTAI evening. <\/p> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Table games <\/h4> <ul> <li>• Baccarat — a fast card game with simple outcomes and a strong main-floor atmosphere.<\/li> <li>• Blackjack — a classic choice for guests who enjoy strategy, decisions and controlled pacing.<\/li> <li>• Roulette — a visual casino favorite with straight bets, sectors, colors and combinations.<\/li> <li>• Sic bo — a dice game with options ranging from simple outcomes to higher multipliers.<\/li> <li>• Card variations — additional formats for guests who want more variety in their play journey.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Electronic formats <\/h4> <ul> <li>• Slot machines — quick rhythm, multiple themes, bonus rounds and prize combinations.<\/li> <li>• Electronic roulette — familiar wheel-based play with a more self-directed pace.<\/li> <li>• Electronic table games — dynamic play for guests who want fast access and flexible sessions.<\/li> <li>• Video terminals — a compact option for short sessions between dinner, cocktails or a show.<\/li> <\/ul><br> <h4 style = \"font-weight: bold; font-size: 24px;\"> Premium gaming areas <\/h4> <ul> <li>• Private salons — a quieter setting, elevated service and more personal space.<\/li> <li>• Higher-limit areas — a format for guests who prefer larger stakes.<\/li> <li>• Personal assistance — support with navigation, cashier services, reservations and resort planning.<\/li> <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\"> MGM COTAI — table limits and gaming zones <\/h3> <p> At MGM COTAI, we offer multiple gaming formats so guests can choose the pace, risk level and room atmosphere that suit them best. The indicative ranges below help explain the betting structure before a visit, while final limits are always displayed at the selected table, machine or gaming area. Premium salons and special tables may apply personalized limits. We recommend confirming current values with our team before play begins. <\/p> <br> <table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #222829;font-size:14px\"> <thead> <tr style=\"background-color: #807149;\"> <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game or zone<\/th> <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Minimum bet<\/th> <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Maximum bet<\/th> <\/tr> <\/thead> <tbody> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Baccarat main floor<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">from HKD 300<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">up to HKD 50,000<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Baccarat premium zone<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">from HKD 1,000<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">up to HKD 1,000,000<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blackjack<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">from HKD 300<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">up to HKD 20,000<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette outside bets<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">from HKD 100<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">up to HKD 20,000<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette straight number<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">from HKD 50<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">up to HKD 5,000<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sic bo<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">from HKD 100<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">up to HKD 20,000<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Electronic games<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">from HKD 10<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">up to HKD 5,000<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slot machines<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">from HKD 0.10<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">by paytable<\/td> <\/tr> <tr > <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Private salon<\/strong><\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">by arrangement<\/td> <td style=\"border: 1px solid #ffffff; padding: 10px;\">by room limit<\/td> <\/tr> <\/tbody> <\/table> <br>\n<h3 style = \"font-weight: bold;font-size: 32px;\"> MGM COTAI — shows, nightlife mood and entertainment <\/h3> <p> At MGM COTAI, entertainment is built around visual impact, evening energy and the freedom to continue the experience after play. MGM Theater is a central part of our offer, hosting the “2049” residency with world-class direction, laser effects, music, kinetic stage elements and advanced production technology. The show runs for about 80 minutes and blends cultural inspiration with a futuristic visual language. For casino guests, the flow is effortless: start with gaming, move to the theater, then finish the evening with dinner or cocktails. <\/p> <br> <p> The Spectacle is another signature part of our entertainment world. This atrium works like an open stage for light, digital art, greenery, seasonal installations and social movement. Guests can pause between gaming sessions, meet before dinner or shift into a calmer resort rhythm. We use the resort setting for art projects, themed exhibitions, cultural showcases and seasonal programs that keep every visit fresh. <\/p> <br> <p> The MGM COTAI evening mood comes alive through Bar Patuá, dining events and lounge-style experiences. Bar Patuá offers crafted cocktails, warm lighting and expressive design, making it ideal for guests who enjoy a stylish late-night atmosphere without heavy club pressure. Grill 58, Aji, Coast and other restaurants support the evening with wine dinners, seasonal menus and festive offers. Instead of one single path, we give guests several rhythms: dynamic gaming, live performance, cocktails, art walks, dinner and private relaxation. <\/p> <br> <p> For regular entertainment, we focus on quality and atmosphere. Guests can plan a visit around the theater show, a cocktail evening, an exhibition route, a seasonal event or a restaurant dinner. Premium salons and personal service add a private layer to the night for guests who want more discretion. MGM COTAI makes the evening feel complete: play, watch, drink, dine and rest in one refined destination. <\/p> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> MGM COTAI entertainment <\/h4> <ul> <li>• MGM Theater — large-scale productions with premium staging, sound, light and visual effects.<\/li> <li>• “2049” — a residency show with MOP 288, MOP 488, MOP 688 and MOP 888 ticket categories.<\/li> <li>• The Spectacle — an atrium with digital art, greenery, lighting scenes and social energy.<\/li> <li>• Bar Patuá — an evening cocktail bar with design character and a relaxed lounge rhythm.<\/li> <li>• Dining events — wine dinners, festive menus, seasonal tastings and culinary occasions.<\/li> <li>• Art installations — kinetic pieces, visual projects and cultural displays.<\/li> <li>• Museum programs — exhibition routes and themed encounters for resort guests.<\/li> <li>• Premium salons — private gaming formats with personal assistance.<\/li> <li>• Seasonal celebrations — special offers, décor, gift sets and themed resort moments.<\/li> <li>• Shopping route — boutiques, voucher campaigns and premium retail between entertainment stops.<\/li> <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\"> MGM COTAI — restaurants, bars, hotels and relaxation <\/h3> <p> At MGM COTAI, we create a resort flow where casino play connects naturally with dining, hotel stays, spa time and evening routes. After gaming, guests can move to Bar Patuá for cocktails, warm lighting and a refined intimate mood. For dinner, our restaurants offer distinct styles: Aji presents modern Asian Bistronomy, Grill 58 builds the experience around meat, fire and premium presentation, while Coast offers a more relaxed format with international and heritage-led dishes. Chún highlights Cantonese tradition, fresh ingredients and serene design, while Five Foot Road adds bold Sichuan character. <\/p> <br> <p> For quick, convenient and flavorful breaks, guests can choose Miàn Duì Miàn, Hao Guo, Anytime and other venues that fit easily between gaming, shows and walks. Anytime sits at the center of The Spectacle and works beautifully for desserts, coffee, light bites, afternoon tea and cocktails. Hao Guo brings warming dishes and hot pot energy, while Miàn Duì Miàn is convenient for 24-hour dining. MGM COTAI makes it easy to choose either a special-occasion restaurant or a short pause between activities. <\/p> <br> <p> Our hotel collection supports a private and carefully designed stay. M Tower offers contemporary style and an energetic mood, Emerald Tower adds a quieter aesthetic, while Skylofts, Emerald Villa and The Mansion suit guests who want more space and personalized attention. Rooms and suites allow the evening to continue without hurry after gaming, dinner or a show. This is ideal for guests who plan a complete resort scenario rather than a short visit. <\/p> <br> <p> Spa and wellness areas bring balance to the energy of the casino. TRIA Spa, the pool, hydrotherapy, fitness, salon services, boutiques and art spaces add calm moments to the MGM COTAI experience. We offer more than gaming: guests can recover, meet, dine, shop, enjoy a show or extend the evening with a hotel stay. MGM COTAI is a complete environment where every leisure element is close, polished and guest-focused. <\/p> <br> <h4 style = \"font-weight: bold; font-size: 24px;\"> MGM COTAI leisure venues <\/h4> <ul> <li>• Bar Patuá — a cocktail bar with evening mood, design character and relaxed lounge rhythm.<\/li> <li>• Aji — Asian Bistronomy with creative technique, premium ingredients and wine pairing.<\/li> <li>• Grill 58 — meat, grill, smoke, wine cellar depth and bold presentation.<\/li> <li>• Coast — relaxed all-day dining for breakfast, lunch, dinner and easy gatherings.<\/li> <li>• Chún — Cantonese cuisine, handmade dim sum, seafood and elegant atmosphere.<\/li> <li>• Five Foot Road — vivid Sichuan flavors, modern presentation and premium service.<\/li> <li>• Hao Guo — Chinese cuisine and hot pot energy for a satisfying dinner.<\/li> <li>• Miàn Duì Miàn — 24-hour noodles, quick dishes and convenient breaks.<\/li> <li>• Anytime — desserts, tea, coffee, cocktails and light relaxation inside The Spectacle.<\/li> <li>• Sushiyoshi — Japanese dining for guests who appreciate precision and refinement.<\/li> <li>• M Tower — contemporary hotel comfort with views and an energetic atmosphere.<\/li> <li>• Emerald Tower — calm luxury with an elegant stay experience.<\/li> <li>• Skylofts — spacious suites for private relaxation.<\/li> <li>• Emerald Villa — elevated privacy, status and personal attention.<\/li> <li>• The Mansion — an exclusive stay format for the most demanding guests.<\/li> <li>• TRIA Spa — treatments, spa facilities and recovery after a full day.<\/li> <li>• Pool and fitness — movement, relaxation and balance between play and rest.<\/li> <li>• Boutiques — premium shopping, gifts and seasonal voucher offers.<\/li> <\/ul><br>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Can guests visit MGM COTAI without staying at the hotel?",
+                            "answer": "Yes, we welcome guests who come for gaming, dining, cocktails, shows, shopping or a walk through The Spectacle. A hotel stay is ideal when you want to extend the evening and enjoy the resort without rushing."
+                        },
+                        {
+                            "title": "Is MGM COTAI suitable for a first casino visit?",
+                            "answer": "Yes, our casino offers clear game formats, attentive staff and different betting levels. First-time guests can begin with simple games, electronic terminals or staff guidance on the gaming floor."
+                        },
+                        {
+                            "title": "What identification should guests bring?",
+                            "answer": "We recommend carrying valid identification that confirms identity and age. It may be required for gaming-area entry, cashier transactions, hotel registration or larger payout handling."
+                        },
+                        {
+                            "title": "Are private gaming areas available?",
+                            "answer": "Yes, we offer premium and private formats for guests who value discretion, calm atmosphere and personal assistance. Conditions depend on availability and visit profile."
+                        },
+                        {
+                            "title": "Where is a good meeting point before gaming or dinner?",
+                            "answer": "The Spectacle is ideal because of its central position, striking visuals and easy access to restaurants, bars and gaming areas. For a more intimate start, Bar Patuá is a strong choice."
+                        },
+                        {
+                            "title": "What is the best way to plan an MGM COTAI evening?",
+                            "answer": "A strong route starts with gaming, continues with a pause at The Spectacle, moves into dinner, adds a show and ends with cocktails or a hotel stay. This reveals the casino as a complete resort experience."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
